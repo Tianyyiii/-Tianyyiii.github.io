@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Novel Evaluation Framework for Image Inpainting via Multi-Pass Self-Consistency"
-date:   
+date:  2022-07-21 22:21:59 +00:00
 image: /images/fuzzy22.png
 categories: research
 author: "Leo Keselman"
