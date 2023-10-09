@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grasping Points Discovery for Cloth Manipulation via Differentiable Physics-based Simulation"
-date:  2023-09-21 22:21:59 +00:00
+date:  2023-09-21 23:21:59 +00:00
 image: /images/fuzzy22.png
 categories: research
 author: "Tianyi Chen"

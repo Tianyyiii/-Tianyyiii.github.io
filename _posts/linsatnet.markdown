@@ -7,7 +7,7 @@ categories: research
 author: "Tianyi Chen"
 authors: "Runzhong Wang, Yunhao Zhang, Ziao Guo, <strong>Tianyi Chen</strong>, Xiaokang Yang, Junchi Yan"
 venue: "ICML"
-github: https://github.com/Thinklab-SJTU/LinSATNet
+code: https://github.com/Thinklab-SJTU/LinSATNet
 ---
 Proposed the first differentiable satisfiability layer based on an extension of the classic
 Sinkhorn algorithm for jointly encoding multiple
