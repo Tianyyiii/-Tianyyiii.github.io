@@ -2,7 +2,7 @@
 layout: post
 title:  "LinSATNet: The Positive Linear Satisfiability Neural Networks"
 date:  2023-03-21 22:21:59 +00:00
-image: /images/fuzzy22.png
+image: /images/linsatnet.png
 categories: research
 author: "Tianyi Chen"
 authors: "Runzhong Wang, Yunhao Zhang, Ziao Guo, <strong>Tianyi Chen</strong>, Xiaokang Yang, Junchi Yan"
